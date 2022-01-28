@@ -1,6 +1,5 @@
 repos:
-
-# - repo: ...
+  # - repo: ...
 
   - repo: https://github.com/compilerla/conventional-pre-commit
     rev: v1.2.0
