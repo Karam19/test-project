@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          New para to delete{' '}
+          New para to delete now{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
